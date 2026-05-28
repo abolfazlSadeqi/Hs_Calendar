@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Hs_Calendar/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Hs_Calendar.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hs_Calendar.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Hs_Calendar/1.0.0": {
-      "type": "project",
-      "path": "../Hs_Calendar/Hs_Calendar.csproj",
-      "msbuildProject": "../Hs_Calendar/Hs_Calendar.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Hs_Calendar >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\USER\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Hs_Calender\\Example\\Example.csproj",
-      "projectName": "Example",
-      "projectPath": "D:\\projects\\Hs_Calender\\Example\\Example.csproj",
+      "projectUniqueName": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
+      "projectName": "Hs_Calendar",
+      "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Hs_Calender\\Example\\obj\\",
+      "outputPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,11 +32,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj": {
-              "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,6 +1,4 @@
 ﻿
-//using Hs_Calender;
-
 
 using Hs_Calendar;
 

@@ -10,6 +10,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\projects\Hs_Calender\Hs_Calender\bin\Debug\net6.0\Hs_Calendar.dll" target="lib\net6.0\Hs_Calendar.dll" />
+    <file src="D:\projects\Hs_Calender\Hs_Calendar\bin\Debug\net6.0\Hs_Calendar.dll" target="lib\net6.0\Hs_Calendar.dll" />
   </files>
 </package>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example/1.0.0": {
+        "dependencies": {
+          "Hs_Calendar": "1.0.0"
+        },
+        "runtime": {
+          "Example.dll": {}
+        }
+      },
+      "Hs_Calendar/1.0.0": {
+        "runtime": {
+          "Hs_Calendar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hs_Calendar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
