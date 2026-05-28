@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj": {}
+    "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj": {}
   },
   "projects": {
-    "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj": {
+    "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
+        "projectUniqueName": "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj",
         "projectName": "Hs_Calendar",
-        "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
+        "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calendar\\Hs_Calendar.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\obj\\",
+        "outputPath": "D:\\projects\\Hs_Calender\\Hs_Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

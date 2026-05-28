@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hs_Calendar", "Hs_Calender\Hs_Calendar.csproj", "{2047D59F-39ED-4F49-8FFE-CAA387A87FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hs_Calendar", "Hs_Calendar\Hs_Calendar.csproj", "{2047D59F-39ED-4F49-8FFE-CAA387A87FB0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{B0929801-E083-4C42-A60D-3EFE0974D5AC}"
 EndProject

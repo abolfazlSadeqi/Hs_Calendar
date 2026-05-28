@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hs_Calender/1.0.0": {
+        "runtime": {
+          "Hs_Calender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hs_Calender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
