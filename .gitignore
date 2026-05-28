@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Hs_Calender
+/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Example/obj/Debug/net6.0/Example.csproj.AssemblyReference.cache
+/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/Hs_Calender/bin/Debug/net6.0/Hs_Calender.pdb
+/Hs_Calender/bin/Debug/net6.0/Hs_Calender.dll
+/Hs_Calender/bin/Debug/net6.0/Hs_Calender.deps.json
+/Hs_Calender/bin/Debug/Hs_Calender.1.0.0.nupkg

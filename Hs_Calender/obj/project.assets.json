@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calender.csproj",
-      "projectName": "Hs_Calender",
-      "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calender.csproj",
+      "projectUniqueName": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
+      "projectName": "Hs_Calendar",
+      "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\obj\\",
       "projectStyle": "PackageReference",

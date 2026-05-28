@@ -1,14 +1,14 @@
-# Hs_Calender
+# Hs_Calendar
 
-A powerful, dual-calendar C# library for seamless Date and Time manipulation. It provides a fluent, object-oriented wrapper around `DateTime` and `TimeSpan`, offering extensive support for both **Gregorian** and **Persian** calendars, along with smart formatting, time zone conversion, and arithmetic operations.
+A powerful, dual-Calendar C# library for seamless Date and Time manipulation. It provides a fluent, object-oriented wrapper around `DateTime` and `TimeSpan`, offering extensive support for both **Gregorian** and **Persian** Calendars, along with smart formatting, time zone conversion, and arithmetic operations.
 
 ## ✨ Features
 
-*   **Dual Calendar Support:** Seamlessly switch between Persian (Jalali) and Gregorian calendars using a single unified API (`DateInfo`).
+*   **Dual Calendar Support:** Seamlessly switch between Persian (Jalali) and Gregorian Calendars using a single unified API (`DateInfo`).
 *   **Time Manipulation:** Enhanced `TimeSpan` handling with rich formatting, mathematical operators, and string representations (`TimeInfo`).
 *   **Smart Localization:** Built-in support for converting numbers to words (Persian/English) and digit conversion.
 *   **Time Zone Helpers:** Easily convert time between UTC, Local, and specific time zones (e.g., Iran Standard Time).
-*   **Date Periods:** Built-in methods to get Start/End of Weeks, Months, Quarters, and Years in both calendars.
+*   **Date Periods:** Built-in methods to get Start/End of Weeks, Months, Quarters, and Years in both Calendars.
 *   **Fluent Interface:** Easy-to-use chainable methods for date navigation and transformation.
 
 ## 📦 Installation
@@ -16,13 +16,13 @@ A powerful, dual-calendar C# library for seamless Date and Time manipulation. It
 Install the package via the .NET CLI:
 
 ```bash
-dotnet add package Hs_Calender
+dotnet add package Hs_Calendar
 ```
 
 Or via the NuGet Package Manager Console:
 
 ```powershell
-Install-Package Hs_Calender
+Install-Package Hs_Calendar
 ```
 
 ## 🚀 Quick Start
@@ -32,7 +32,7 @@ Install-Package Hs_Calender
 The `DateInfo` class allows you to access date properties in both Persian and Gregorian systems instantly.
 
 ```csharp
-using Hs_Calender;
+using Hs_Calendar;
 
 // Initialize with current date, or specific DateTime
 var date = new DateInfo(); 
@@ -59,7 +59,7 @@ Console.WriteLine(date.PersianFullText);    // Output: پنج‌شنبه 15 دی
 The `TimeInfo` class wraps `TimeSpan` to provide readable formats and easier calculations.
 
 ```csharp
-using Hs_Calender;
+using Hs_Calendar;
 
 var ts = new TimeSpan(2, 30, 45); // 2 hours, 30 mins, 45 secs
 var time = new TimeInfo(ts);

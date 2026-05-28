@@ -1,0 +1,12 @@
+D:\projects\Hs_Calender\Hs_Calender\bin\Debug\net6.0\Hs_Calender.deps.json
+D:\projects\Hs_Calender\Hs_Calender\bin\Debug\net6.0\Hs_Calender.dll
+D:\projects\Hs_Calender\Hs_Calender\bin\Debug\net6.0\Hs_Calender.pdb
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.csproj.AssemblyReference.cache
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.AssemblyInfoInputs.cache
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.AssemblyInfo.cs
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.csproj.CoreCompileInputs.cache
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.dll
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\refint\Hs_Calender.dll
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\Hs_Calender.pdb
+D:\projects\Hs_Calender\Hs_Calender\obj\Debug\net6.0\ref\Hs_Calender.dll

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Hs_Calender\Hs_Calender.csproj" />
+    <ProjectReference Include="..\Hs_Calender\Hs_Calendar.csproj" />
   </ItemGroup>
 
 </Project>

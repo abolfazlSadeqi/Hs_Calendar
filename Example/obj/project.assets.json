@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Hs_Calender/1.0.0": {
+      "Hs_Calendar/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Hs_Calender.dll": {}
+          "bin/placeholder/Hs_Calendar.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hs_Calender.dll": {}
+          "bin/placeholder/Hs_Calendar.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Hs_Calender/1.0.0": {
+    "Hs_Calendar/1.0.0": {
       "type": "project",
-      "path": "../Hs_Calender/Hs_Calender.csproj",
-      "msbuildProject": "../Hs_Calender/Hs_Calender.csproj"
+      "path": "../Hs_Calender/Hs_Calendar.csproj",
+      "msbuildProject": "../Hs_Calender/Hs_Calendar.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Hs_Calender >= 1.0.0"
+      "Hs_Calendar >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,8 +52,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calender.csproj": {
-              "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calender.csproj"
+            "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj": {
+              "projectPath": "D:\\projects\\Hs_Calender\\Hs_Calender\\Hs_Calendar.csproj"
             }
           }
         }
